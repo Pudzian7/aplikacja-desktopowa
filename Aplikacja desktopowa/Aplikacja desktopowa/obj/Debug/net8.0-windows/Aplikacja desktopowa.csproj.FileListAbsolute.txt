@@ -1,0 +1,20 @@
+S:\Aplikacja desktopowa\Aplikacja desktopowa\bin\Debug\net8.0-windows\Aplikacja desktopowa.exe
+S:\Aplikacja desktopowa\Aplikacja desktopowa\bin\Debug\net8.0-windows\Aplikacja desktopowa.deps.json
+S:\Aplikacja desktopowa\Aplikacja desktopowa\bin\Debug\net8.0-windows\Aplikacja desktopowa.runtimeconfig.json
+S:\Aplikacja desktopowa\Aplikacja desktopowa\bin\Debug\net8.0-windows\Aplikacja desktopowa.dll
+S:\Aplikacja desktopowa\Aplikacja desktopowa\bin\Debug\net8.0-windows\Aplikacja desktopowa.pdb
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\MainWindow.g.cs
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\App.g.cs
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\Aplikacja desktopowa_MarkupCompile.cache
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\Aplikacja desktopowa_MarkupCompile.lref
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\MainWindow.baml
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\Aplikacja desktopowa.g.resources
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\Aplikacja desktopowa.GeneratedMSBuildEditorConfig.editorconfig
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\Aplikacja desktopowa.AssemblyInfoInputs.cache
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\Aplikacja desktopowa.AssemblyInfo.cs
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\Aplikacja desktopowa.csproj.CoreCompileInputs.cache
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\Aplikacja desktopowa.dll
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\refint\Aplikacja desktopowa.dll
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\Aplikacja desktopowa.pdb
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\Aplikacja desktopowa.genruntimeconfig.cache
+S:\Aplikacja desktopowa\Aplikacja desktopowa\obj\Debug\net8.0-windows\ref\Aplikacja desktopowa.dll
